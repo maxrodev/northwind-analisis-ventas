@@ -14,7 +14,7 @@ Base de datos de ejemplo **Northwind**. Son datos ficticios con fines de aprendi
 
 ## Diagrama de la base de datos
 
-![Diagrama entidad-relación de Northwind](assets/northwind_db.png)
+![Diagrama entidad-relación de Northwind](assets/northWind_db.png)
 
 La misma estructura, simplificada, con las columnas más relevantes y los tipos aproximados:
 
